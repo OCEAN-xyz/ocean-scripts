@@ -13,6 +13,8 @@ Architecture: all
 Depends:
  ${misc:Depends},
  ${shlibs:Depends},
+ bitcoin-core,
+ datum-gateway
 Description: Scripts to manage the OCEAN stack
  Scripts to manage bitcoin-core and datum-gateway packages.
  It can show logs, reboot, reconfigure and more!
