@@ -1,3 +1,9 @@
+ocean-scripts (1.1-1) unstable; urgency=medium
+
+  * Update upstream to v1.1
+
+ -- Léo Haf <leo@haf.ovh>  Thu, 19 Nov 2026 14:01:27 +0100
+
 ocean-scripts (1.0-1) unstable; urgency=low
 
   * Initial release.
