@@ -14,7 +14,12 @@ Depends:
  ${misc:Depends},
  ${shlibs:Depends},
  bitcoin-core,
- datum-gateway
+ datum-gateway,
+ curl,
+ magic-wormhole,
+ openvpn,
+ unzip,
+ wget
 Description: Scripts to manage the OCEAN stack
  Scripts to manage bitcoin-core and datum-gateway packages.
  It can show logs, reboot, reconfigure and more!
