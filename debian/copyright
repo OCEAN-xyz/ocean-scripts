@@ -3,11 +3,7 @@ Upstream-Name: ocean-scripts
 Upstream-Contact: Léo Haf <leo@haf.ovh>
 Source: https://github.com/OCEAN-xyz/ocean-scripts
 
-Files: ./debian/*
-Copyright: 2026 Léo Haf
-License: Expat
-
-Files: ./ocean-menu
+Files: ./*
 Copyright: 2026 Léo Haf
 License: Expat
 
