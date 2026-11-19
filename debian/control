@@ -1,0 +1,18 @@
+Source: ocean-scripts
+Section: utils
+Maintainer: Léo Haf <leo@haf.ovh>
+Build-Depends:
+ debhelper-compat (= 14),
+Standards-Version: 4.7.4
+Homepage: https://github.com/ocean-xyz/ocean-scripts
+Vcs-Git: https://github.com/ocean-xyz/ocean-scripts.git
+Vcs-Browser: https://github.com/ocean-xyz/ocean-scripts
+
+Package: ocean-scripts
+Architecture: all
+Depends:
+ ${misc:Depends},
+ ${shlibs:Depends},
+Description: Scripts to manage the OCEAN stack
+ Scripts to manage bitcoin-core and datum-gateway packages.
+ It can show logs, reboot, reconfigure and more!
