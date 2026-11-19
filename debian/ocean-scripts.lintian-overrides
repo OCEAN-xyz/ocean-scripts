@@ -1,5 +1,2 @@
-# It is not intended to be uploaed to Debian for now.
-ocean-scripts: initial-upload-closes-no-bugs [usr/share/doc/ocean-scripts/changelog.Debian.gz:1]
-
 # It's a TUI which guide the user, no need of a manage since it doesn't take any argument.
 ocean-scripts: no-manual-page [usr/sbin/ocean-menu]
