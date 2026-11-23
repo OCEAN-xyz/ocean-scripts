@@ -1,9 +1,11 @@
 Source: ocean-scripts
 Section: utils
+Priority: optional
 Maintainer: Léo Haf <leo@haf.ovh>
 Build-Depends:
- debhelper-compat (= 14),
-Standards-Version: 4.7.4
+ debhelper-compat (= 13),
+ dh-sequence-single-binary,
+Standards-Version: 4.6.2
 Homepage: https://github.com/ocean-xyz/ocean-scripts
 Vcs-Git: https://github.com/ocean-xyz/ocean-scripts.git
 Vcs-Browser: https://github.com/ocean-xyz/ocean-scripts
