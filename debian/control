@@ -2,7 +2,7 @@ Source: ocean-scripts
 Section: utils
 Maintainer: Léo Haf <leo@haf.ovh>
 Build-Depends:
- debhelper-compat (= 14),
+ debhelper-compat (= 13),
 Standards-Version: 4.7.4
 Homepage: https://github.com/ocean-xyz/ocean-scripts
 Vcs-Git: https://github.com/ocean-xyz/ocean-scripts.git
